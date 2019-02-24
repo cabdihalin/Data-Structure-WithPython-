@@ -1,0 +1,14 @@
+
+//Creating A New List// 
+xaazhi= ['Xazhi', 'Pogba', 17, 1999]
+
+//Updating A List//
+xaazhi[2]='Lascanod'
+
+
+//Deleting  A List 
+ 
+del xaazhi[2]   //After This Line Of Code The index 2 Will Successfully Deleting 
+
+
+
