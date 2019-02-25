@@ -1,0 +1,9 @@
+
+Mydict={'Magalada':'Lascaanood','xaafada':'daami','dugsi':'shiikh Bashiir'} -----//Creating Dictionary With Asigning Values
+ 
+print "Mydict[Magalada]:", dict[magalada] //After This Line Of Code it Will Shown JUST LIKE This "mydict[magalada]:"
+
+//Updating Dict
+mydict['magaalda'] = 'xamr'; # update existing entry
+deleting it 
+del mydict
