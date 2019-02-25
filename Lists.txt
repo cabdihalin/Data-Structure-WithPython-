@@ -11,4 +11,3 @@ xaazhi[2]='Lascanod'
 del xaazhi[2]   //After This Line Of Code The index 2 Will Successfully Deleting 
 
 
-
