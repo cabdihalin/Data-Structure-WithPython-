@@ -1,0 +1,8 @@
+//Creating New Tuples
+mytup = ('Yaazhi', 'Man Utd', 171, 109);
+//Updting Tuples
+mytup=("Xaazhi",21,2,3555,66,7,) // We Can Update  Our Tuples By Typing Just Like This One
+
+//Deleting Tuples
+
+del mytup    //After This Command All Data On This Function Will Permenantely Removed 

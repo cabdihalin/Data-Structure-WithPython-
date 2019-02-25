@@ -1,0 +1,3 @@
+Mydict={'Magalada':'Lascaanood','xaafada':'daami','dugsi':'shiikh Bashiir'}
+print "Mydict[Magalada]:", dict[magalada]
+print "Mydict['xaafada']:", Mydict['xaafada']
